@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>958652234164-skbrbkp02a1e7g7a7fnfkpbphmbab3o0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDd2tvFC5Mh12m5ZjdHUXj1RMP5vWk7N_k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>958652234164</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jkbiansoffers.jkbiansoffers</string>
+	<key>PROJECT_ID</key>
+	<string>jkb-apps</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jkb-apps.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:958652234164:ios:e8d447aa1c2754ec5ddae1</string>
+	<key>DATABASE_URL</key>
+	<string>https://jkb-apps.firebaseio.com</string>
+</dict>
+</plist>
