@@ -18,7 +18,6 @@ class _NotesState extends State<Notes> {
   TextEditingController empid=new TextEditingController();
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
 
-
   void validateAndSave() async{
     final FormState? form = _formKey.currentState;
     if (form!.validate()) {

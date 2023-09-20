@@ -60,7 +60,7 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 flutter_launcher_icons:
   android: true
-  ios: true,
+  ios: true
   remove_alpha_ios: true
   image_path: "assets/jkbianslogo.png"
 # The following section is specific to Flutter.
