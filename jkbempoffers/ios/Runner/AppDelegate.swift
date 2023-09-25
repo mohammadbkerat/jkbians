@@ -17,7 +17,7 @@ import FirebaseMessaging
 
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
-    override func application(_ application:UIApplication,didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Date){
+    override func application(_ application:UIApplication,didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data){
 
         Messaging.messaging().apnsToken = deviceToken
 
